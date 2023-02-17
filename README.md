@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankseervi
-- 👀 I’m interested in blokchain, samrt contract, solidity, react and Java (Springboot), Rest Api 
+- 👀 I’m interested in blokchain, smart contract, solidity, react and Java (Springboot), Rest Api 
 - 🌱 I’m currently learning ...writing Smart contract and React for front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my Email id:-pankajseervi100@gmail.com
